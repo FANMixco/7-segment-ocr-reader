@@ -13,4 +13,4 @@ And their visualization algorithm:
 
 ![ocr_preview](https://www.unix-ag.uni-kl.de/~auerswal/ssocr/illustrate_algo.png)
 
-All rights reserved are property of [Technische Universität Kaiserslautern](https://www.uni-kl.de)
+All images in this Read Me are property of [Technische Universität Kaiserslautern](https://www.uni-kl.de)
